@@ -58,7 +58,7 @@ src/
 ### ✅ Prerequisites
 
 - [Node.js](https://nodejs.org/) installed (v14+)
-- npm or yarn
+- npm 
 
 ---
 
@@ -75,8 +75,7 @@ cd top-courses-react-app
 
 ```bash
 npm install
-# or
-yarn
+
 ```
 
 ---
@@ -97,8 +96,7 @@ Update your code to use `import.meta.env.VITE_API_URL`.
 
 ```bash
 npm run dev
-# or
-yarn dev
+
 ```
 
 > Open your browser and navigate to `http://localhost:5173`
@@ -109,8 +107,7 @@ yarn dev
 
 ```bash
 npm run build
-# or
-yarn build
+
 ```
 
 ---
@@ -119,7 +116,7 @@ yarn build
 
 ```bash
 rm -rf node_modules
-rm package-lock.json # or yarn.lock
+rm package-lock.json
 npm install
 ```
 
@@ -131,9 +128,10 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 ---
 
-## 📄 License
+**Preview**
 
-[MIT](LICENSE)
+![PHOTO-2025-05-19-16-30-14](https://github.com/user-attachments/assets/9d853928-d871-4d29-9bcf-1caa78492066)
+
 
 ---
 
